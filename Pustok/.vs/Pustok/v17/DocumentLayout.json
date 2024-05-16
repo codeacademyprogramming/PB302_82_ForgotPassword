@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\82. 16-05-2024\\pustok\\pustok\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\82. 16-05-2024\\pustok\\pustok\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\82. 16-05-2024\\pustok\\pustok\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\82. 16-05-2024\\pustok\\pustok\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\82. 16-05-2024\\pustok\\pustok\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Pustok\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Pustok\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:22:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Pustok\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:16:56.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pustok\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:05:06.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Pustok\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwC4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:04:53.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\82. 16-05-2024\\Pustok\\Pustok\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Pustok\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAowAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:02:52.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
